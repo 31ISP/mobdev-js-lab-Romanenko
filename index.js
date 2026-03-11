@@ -1,0 +1,5 @@
+console.log("Привет мир!")
+console.log(2 + 2)
+console.log(typeof "hello")
+console.log(10%3)
+console.log(2 ** 8)
