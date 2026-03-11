@@ -2,7 +2,7 @@ const tempereture = 36.6789
 const a = 17
 const b = 5
 console.log(tempereture.toFixed(1))
-console.log(Math.floor (a/b))
+console.log(Math.floor (a%b))
 console.log(Math.floor(Math.random()* 11))
 console.log(isNaN("100" / 5))
 console.log(isNaN("сто" / 5))
